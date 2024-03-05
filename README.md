@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chanchalshukla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on projects related to data analytics...
+- 👀 I’m interested in development
+- 🌱 I’m currently learning python full stack.
+- 💞️ I’m looking to collaborate on projects related to full stack development
 - 📫 How to reach me through linkedin
 - 😄 Pronouns👩‍🔧
 - ⚡ Fun fact😆
