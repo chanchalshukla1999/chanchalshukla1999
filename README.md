@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python full stack.
 - 💞️ I’m looking to collaborate on projects related to full stack development
 - 📫 How to reach me through linkedin
-- 😄 Pronouns👩‍🔧
+- 😄 Chanchal👩‍🔧
 - ⚡ Fun fact😆
 
 <!---
